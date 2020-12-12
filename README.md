@@ -10,7 +10,7 @@
 
 <h2>Get it on Google Play</h2>
 
-[![](https://img.shields.io/badge/google%20play-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/details?id=com.easytodo)
+[![](https://img.shields.io/badge/google%20play%20-%20easy%20todo-%2300c853.svg?&style=for-the-badge&logo=google%20play&logoColor=white)](https://play.google.com/store/apps/details?id=com.easytodo)
 
 <h2>Watch on YouTube</h2>
 
