@@ -1,6 +1,12 @@
 <h1>Easy Todo - React Native Todo App</h1>
 
-<p>This is a simple and plain todo app. You can save and manage your todos very easily with this app. You can smoothly record your todos. When you're done, you can draw or delete with one touch.</p>
+<p>This is a simple and plain todo app.</p>
+<ul>
+    <li>You can save and manage your todos very easily with this app.</li>
+    <li>You can smoothly record your todos.</li>
+    <li>When you're done, you can draw or delete with one touch.</li>
+</ul>
+
 
 <h2>Get it on Google Play</h2>
 
